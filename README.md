@@ -14,8 +14,7 @@ Whilst I have experience of making websites mobile ready, one particular techniq
 
 An image in HTML is traditionally a fixed width element. So if a website is normally 960 pixels wide and images of a product on that site are 600 pixels wide if that websites width is adjusted to less than 600px then the image will begin to break out of the layout and horizontal scroll backars begin to appear.
 
-[Example of two different image behaviours]
-(http://neilmagee.com/demo/adaptive-images-initial.html)
+[Example of two different image behaviours](http://neilmagee.com/demo/adaptive-images-initial.html)
 
 One method to address this problem is to use the following CSS to create [fluid images](http://www.alistapart.com/articles/fluid-images/):
 
