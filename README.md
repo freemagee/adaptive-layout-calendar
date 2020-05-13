@@ -4,9 +4,9 @@ The modern day web needs layouts that can adapt to meet the growing number of de
 
 To show how this can be applied to a real life situation I designed a mock-up of a calendar widget for use in this article, with the goal of implementing a HTML version of it that will adapt to different sizes and still remain usable and true to the original design. In this article I am going to use CSS3 techniques to avoid the need for images and to further improve the adaptive nature of the widget. I will be concentrating on the calendar style and structure only. A fully working calendar is definitely a project I will create in the near future.
 
-![Original CSS calendar design](http://neilmagee.com/library/img/article-assets/calendar-example.jpg "Original CSS calendar design")
+![Original CSS calendar design](calendar-example.jpg)
 
-*Original calendar design*
+> Original calendar design
 
 ### Semantic HTML Considerations
 
